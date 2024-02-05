@@ -21,6 +21,20 @@ body {
 img {
     display: block;
 }
+
+header {
+    font-family: sans-serif, Arial, sans-serif;
+    background-color: #0c0c0c;
+    text-align: center;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+
+
 /* Step 1: Positioning and styling the profile image */
 /* Step 2: 2Styling the user's profile information, including username, bio, and stats.*/
 /* Step 3:Creating a responsive layout for the gallery section*/
